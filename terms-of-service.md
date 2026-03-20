@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: March 10, 2026**
+**Last updated: March 20, 2026**
 
 ## 1. Acceptance of Terms
 
@@ -8,11 +8,11 @@ By using biskwidaDev's social media analytics reporting tool ("the Service"), yo
 
 ## 2. Description of Service
 
-The Service is an analytics reporting tool that connects to TikTok (and other social media platforms) via their official APIs to generate performance reports and presentation slides for account owners.
+The Service is an analytics reporting tool that allows users to connect their own social media accounts — including TikTok — via official APIs to generate performance reports and presentation slides. Users authenticate directly with each platform and grant the Service read-only access to their own account data.
 
 ## 3. Eligibility
 
-You must own or be an authorized manager of the TikTok account(s) you connect to the Service. You may not use the Service to access accounts you do not have permission to manage.
+You must be the owner of, or have explicit authorization from the owner to access, the TikTok account(s) you connect to the Service. You may not use the Service to access accounts for which you do not have permission.
 
 ## 4. API Compliance
 
@@ -20,9 +20,9 @@ The Service accesses TikTok data through TikTok's official API in compliance wit
 
 ## 5. Acceptable Use
 
-You agree **not** to use the Service to:
+You agree not to use the Service to:
 
-- Access TikTok accounts without authorization
+- Access TikTok accounts without authorization from the account owner
 - Scrape, store, or redistribute TikTok user data beyond your own account
 - Violate any applicable laws or TikTok's platform rules
 
@@ -40,7 +40,7 @@ biskwidaDev is not liable for any damages arising from your use of the Service o
 
 ## 9. Changes to Terms
 
-We may update these Terms at any time. Continued use of the Service constitutes acceptance of updated Terms.
+We may update these Terms at any time. We will indicate the date of the most recent update at the top of this page. Continued use of the Service after changes are posted constitutes your acceptance of the updated Terms.
 
 ## 10. Contact
 
